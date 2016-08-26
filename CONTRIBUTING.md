@@ -1,7 +1,7 @@
 # Contributing
 
 This is an open source, community-driven project. If you'd like to contribute,
-feel free to do this, but remember to follow this few simple rules:
+please do, but remember to follow a few simple rules:
 
 - Make your feature addition or bug fix,
 - __Always__ as base for your changes use `master` branch (all new development
