@@ -18,3 +18,6 @@ http://mqtt.org/
 
 https://aws.amazon.com/iot/
 
+https://github.com/remakeelectric/mqtt-malaria
+
+http://affolter-engineering.ch/mqtt-randompub/
